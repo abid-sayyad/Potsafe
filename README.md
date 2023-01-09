@@ -1,0 +1,2 @@
+# Potsafe
+Project for Smartathon
