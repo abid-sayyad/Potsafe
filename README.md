@@ -25,6 +25,12 @@ Overall, PotSafe is a valuable tool for improving road safety and reducing the c
 
 ![WhatsApp Image 2023-01-20 at 8 34 32 PM (1)](https://user-images.githubusercontent.com/75151775/213732169-38ab41f2-4185-4734-a23a-75add734212d.jpeg)
 
+![ba5ec5a9-6f06-463d-acdf-22bcef146b15](https://user-images.githubusercontent.com/49099853/213801922-ea80b573-1580-46e9-8c4a-5c6fe8956264.jpg)
+
+![c934d69e-8ac9-4c9e-ac74-7d4cbeddd031](https://user-images.githubusercontent.com/49099853/213801941-83be4655-27fe-4f70-bf7e-56b13d5c4789.jpg)
+
+
+
 ## Acknowledgments 
 
 - [ ] [MiDAS ](https://github.com/isl-org/MiDaS)
