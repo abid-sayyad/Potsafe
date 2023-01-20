@@ -23,6 +23,10 @@ The goal of this project is to develop an automated system that can detect potho
 - [ ] [YOLO_V7](https://github.com/WongKinYiu/yolov7)
 - [ ] [SSD](https://github.com/amdegroot/ssd.pytorch)
 
+## Scope of Improvement -
+- [ ] Increasing Accuracy of Model by training on better dataset and more types of models like Faster-RCNNs.
+- [ ] More accuracy and calculation feature along with MiDAS model for 3D-reconstruction .
+
  <div align="left">
  <p>
  <br>
