@@ -35,6 +35,16 @@ The goal of this project is to develop an automated system that can detect potho
   <p>
  </div>
  <br>
+ 
+ 
+ ## Technologies Used -
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+ 
 ## Authors  -
 <div align="left"> 
   <table>
@@ -99,6 +109,4 @@ The goal of this project is to develop an automated system that can detect potho
 </a>
 </p>
  <strong>ML and CV Developer<strong>
-</td>
 
-  <td>
