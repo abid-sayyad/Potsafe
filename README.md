@@ -35,4 +35,70 @@ The goal of this project is to develop an automated system that can detect potho
   <p>
  </div>
  <br>
+## Authors  -
+<div align="left"> 
+  <table>
+<tr align="left">
+ <td>
 
+#### Aryan Raj
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/75358720?v=4"  height="120" alt="Aryan Raj">
+</p>
+<p align="center">
+<a href = "https://github.com/aryanraj2713"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/aryan-raj-3a68b39a/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+ <strong>ML and CV Developer<strong>
+</td>
+
+
+ <td>
+
+#### Sayyad Abid
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/49099853?v=4"  height="120" alt="Aryan Raj">
+</p>
+<p align="center">
+<a href = "https://github.com/abid-sayyad"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/abidarian/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+ <strong>IoT and ML Enthusiast<strong>
+
+
+   
+
+ <td>
+
+#### Arnav Sharma
+<p align="center">
+<img src = "https://media.licdn.com/dms/image/D5603AQEwVJY6AB4xUg/profile-displayphoto-shrink_400_400/0/1671472367861?e=1679529600&v=beta&t=3clepXeqTbEAiorR1_kdwIsWiyo05Td9jyeXMDtW2wc"  height="120" alt="Arnav">
+</p>
+<p align="center">
+<a href = "https://github.com/Arnav131003"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/arnav-sharma-027a21204/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+ <strong>AI/ML Practitioner<strong>
+</td>
+  <td>
+  
+#### Sarthak Vashisht
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/104159721?v=4"  height="120" alt="Sarthak Vashisht">
+</p>
+<p align="center">
+<a href = "https://github.com/sarthak0025"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://github.com/sarthak0025">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+ <strong>ML and CV Developer<strong>
+</td>
+
+  <td>
