@@ -23,3 +23,12 @@ The goal of this project is to develop an automated system that can detect potho
 - [ ] [YOLO_V7](https://github.com/WongKinYiu/yolov7)
 - [ ] [SSD](https://github.com/amdegroot/ssd.pytorch)
 
+ <div align="left">
+ <p>
+ <br>
+   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" height="28"/><br>
+   <br><strong>PotSafe</strong> is under MIT License, Please Read the <strong>LICENSE</strong>
+  <p>
+ </div>
+ <br>
+
