@@ -6,7 +6,7 @@
 
 
 ```
-$ git clone https://github.com/aman190202/MiDAS.git
+$ git clone https://github.com/isl-org/MiDaS
 $ cd MiDAS
 $ virtualenv env
 $ source env/bin/activate
