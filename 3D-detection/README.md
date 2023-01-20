@@ -2,7 +2,7 @@
 ## How to run
 
 
-1. Setup the right environment :
+### Setup the right environment 
 
 
 ```
@@ -12,7 +12,7 @@ $ virtualenv env
 $ source env/bin/activate
 $ pip install -r requirements.txt
 ```
-2. Run the file
+### Run the file
 ```
 $ python main.py
 ```
