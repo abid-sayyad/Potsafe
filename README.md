@@ -27,6 +27,7 @@ Overall, PotSafe is a valuable tool for improving road safety and reducing the c
 ## Depth Detection
 ``` Input ```
 ![WhatsApp Image 2023-01-21 at 11 20 14 PM](https://user-images.githubusercontent.com/75358720/213880547-341025a2-f65b-4ccb-b2e3-750cbf373618.jpeg)
+![WhatsApp Image 2023-01-21 at 11 19 39 PM](https://user-images.githubusercontent.com/75358720/213880591-a891d861-51da-4561-95a6-cf2ad3ea2c7e.jpeg)
 
 
 
@@ -36,6 +37,9 @@ Overall, PotSafe is a valuable tool for improving road safety and reducing the c
 
 
 ![WhatsApp Image 2023-01-21 at 11 20 14 PM (1)](https://user-images.githubusercontent.com/75358720/213880552-0a4f0e33-3fc9-4611-9444-7135f37f5866.jpeg)
+
+![WhatsApp Image 2023-01-21 at 11 19 38 PM](https://user-images.githubusercontent.com/75358720/213880642-90c4a9ad-ddb9-4103-9d8f-da76795d8e27.jpeg)
+
 
 
 
