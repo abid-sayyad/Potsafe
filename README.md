@@ -15,7 +15,6 @@ The goal of this project is to develop an automated system that can detect potho
 
 https://user-images.githubusercontent.com/49099853/213801458-e49df846-bc8b-4612-acc8-6f36c5b82226.mp4
 
-https://user-images.githubusercontent.com/49099853/213978691-af06a60a-4e6a-4c02-9222-558b754dadf6.mp4
 
 
 
