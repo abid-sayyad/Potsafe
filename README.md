@@ -1,5 +1,5 @@
 ![7ff81f98-da83-4d4c-a8b2-d9e480476e30](https://user-images.githubusercontent.com/104159721/213873414-6c308628-21cf-4bb5-82e7-d3f4487c4a62.jpg)
-kxjbcckansas
+
 # PotSafe
 
 ## Project Description
