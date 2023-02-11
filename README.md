@@ -11,6 +11,8 @@ The goal of this project is to develop an automated system that can detect potho
 
 [Abstract for PotSafe](https://github.com/aryanraj2713/Potsafe/files/10529121/Abstract_PotSafe_AryanRaj.pdf)
 
+[Trained Model Weights](https://drive.google.com/drive/folders/1OBmchgp7OJz5CD7YyHOAlMHewydoLSwZ?usp=share_link)
+
 
 
 
@@ -155,17 +157,7 @@ Overall, PotSafe is a valuable tool for improving road safety and reducing the c
 
  <td>
 
-#### Nitish Chaturvedi
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/85406812?v=4"  height="120" alt="Nitish Chaturvedi">
-</p>
-<p align="center">
-<a href = "https://github.com/waterupto"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/waterupto/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
- <strong>ML Enthusiast<strong>
+
 
 
    
