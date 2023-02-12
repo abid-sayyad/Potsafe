@@ -13,6 +13,8 @@ The goal of this project is to develop an automated system that can detect potho
 
 [Trained Model Weights](https://drive.google.com/drive/folders/1OBmchgp7OJz5CD7YyHOAlMHewydoLSwZ?usp=share_link)
 
+[Demo Video](https://drive.google.com/file/d/1OI9eXywHwJ6KjNrRajgxRXlaqQVbMgsU/view?usp=sharing)
+
 
 
 
