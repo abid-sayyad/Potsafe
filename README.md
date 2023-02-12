@@ -21,6 +21,10 @@ The goal of this project is to develop an automated system that can detect potho
 
 
 
+https://user-images.githubusercontent.com/75358720/218301488-f3b57d86-7428-410f-9c79-e6a0bddf2b29.mp4
+
+
+
 PotSafe is a pothole detection system that utilizes image processing techniques to automatically detect, locate, and determine the severity of potholes on roads. The system can be integrated into vehicles equipped with cameras, and can detect potholes in real-time as the vehicle travels.
 
 The main goal of the PotSafe project is to develop an automated system that can detect potholes in real-time and alert authorities or maintenance crews to repair them. By detecting potholes early and alerting maintenance crews in a timely manner, the system aims to improve road safety and reduce the cost of road maintenance.
