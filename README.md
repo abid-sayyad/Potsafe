@@ -13,6 +13,8 @@ The goal of this project is to develop an automated system that can detect potho
 
 [Trained Model Weights](https://drive.google.com/drive/folders/1OBmchgp7OJz5CD7YyHOAlMHewydoLSwZ?usp=share_link)
 
+[Demo Video](https://drive.google.com/file/d/1OI9eXywHwJ6KjNrRajgxRXlaqQVbMgsU/view?usp=sharing)
+
 
 
 
@@ -54,7 +56,7 @@ Overall, PotSafe is a valuable tool for improving road safety and reducing the c
 ## Acknowledgments 
 
 - [ ] [MiDAS ](https://github.com/isl-org/MiDaS)
-- [ ] [YOLO_V7](https://github.com/WongKinYiu/yolov7)
+- [ ] [YOLO_V8](https://github.com/WongKinYiu/yolov7)
 - [ ] [SSD](https://github.com/amdegroot/ssd.pytorch)
 
 ## Scope of Improvement -
